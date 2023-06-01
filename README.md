@@ -10,15 +10,15 @@
 
 ## 🎯 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [📈 Quant-Python-Jumpstart](#-quant-python-jumpstart)
+  - [🎯 Table of Contents](#-table-of-contents)
+  - [🌟 About](#-about)
+  - [✨ Components](#-components)
+  - [⚙️ Prerequisites](#️-prerequisites)
+  - [🔧 Installation](#-installation)
+  - [🚀 Usage](#-usage)
+  - [📄 License](#-license)
+  - [👏 Acknowledgements](#-acknowledgements)
 
 ## 🌟 About
 
@@ -26,7 +26,7 @@ This repository, designed for both beginners and experts in quantitative finance
 
 ## ✨ Components
 
-1. Overall architecture: When I consider Quantization system as an machine learning engineering system, what it should be like? 
+1. [Overall architecture](docs/quant_system.md): When I consider Quantization system as an machine learning engineering system, what it should be like? 
 2. Data Collection and Preprocessing 
 3. Feature Extraction and Selection
 4. Model Generation and Training
