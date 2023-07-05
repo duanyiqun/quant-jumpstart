@@ -6,7 +6,7 @@
 
 **Quant-Python-Jumpstart** is a comprehensive repo for someone who have ML experience and looking to swich their toolkits into quantitative finance (even as an interest). 
 
-> Using Python and Qlib, this repo provide basic overview and scripts you need to start crunching financial data, backtesting models, and visualizing your strategies using Qlib. This is also a record of my personal learning journey. 
+Using Python and Qlib, this repo provide basic overview and scripts you need to start crunching financial data, backtesting models, and visualizing your strategies using Qlib. This is also a record of my personal learning journey. 
 
 ## 🎯 Table of Contents
 
